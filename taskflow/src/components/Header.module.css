@@ -3,7 +3,8 @@
     justify-content: space-between;
     align-items: center;
     height: 56px;
-    background: #1B8C3E;
+    /* couleur verte légèrement plus claire */
+    background: #28A745;
     color: white;
     padding: 0 1rem;
 }
